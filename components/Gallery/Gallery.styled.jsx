@@ -11,9 +11,9 @@ export default styled.div`
   @media (max-width:  850px) {
     grid-template-columns: repeat(2,1fr);
   }
-  @media (max-width:  550px) {
-    grid-template-columns: repeat(1,1fr);
-  }
+  //@media (max-width:  550px) {
+  //  grid-template-columns: repeat(1,1fr);
+  //}
   grid-template-rows: min-content;
   .gallery-item{
     position: relative;
@@ -25,7 +25,7 @@ export default styled.div`
       aspect-ratio: 1/1;
       position: relative;
       overflow: hidden;
-      border-radius: 10px;
+      border-radius: 4px;
       cursor:pointer;
       transition:0.5s;
       :hover{

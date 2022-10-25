@@ -69,7 +69,7 @@ export default styled.nav`
       right:50px;
     }
   }
-  @media (max-width:  1000px){
+  @media (max-width:  1050px){
     .menu-items{
       display: none;
     }

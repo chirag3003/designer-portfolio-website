@@ -1,6 +1,7 @@
 import React from 'react';
 import GalleryItem from "./GalleryItem";
 import GalleryStyled from "./Gallery.styled";
+import Carousel from "../Carousel";
 
 function Index(props) {
     return (

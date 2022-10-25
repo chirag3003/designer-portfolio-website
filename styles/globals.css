@@ -6,10 +6,17 @@
 
 html,
 body {
+  /*background: #DCFFFD;*/
+  /*background: #94ECBE;*/
+  /*background: #F7F9F9;*/
+  /*background: #BED8D4;*/
+  /*background: #CAD8DE;*/
+  /*background: #9E4770;*/
+  /*background: #CAD8DE;*/
+  /*background: #CAD8DE;*/
   width:100vw;
   min-height: 100vh;
   overflow-x:hidden;
-  /*position:relative;*/
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
